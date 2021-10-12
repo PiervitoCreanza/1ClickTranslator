@@ -10,7 +10,7 @@
   "author": "Piervito Creanza",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.9"
+    "electron": "^11.5.0"
   },
   "dependencies": {
     "@google-cloud/translate": "^4.1.3",
